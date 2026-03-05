@@ -1,0 +1,128 @@
+# Executáveis
+
+*.exe
+*.out
+*.app
+
+# Objetos compilados
+
+*.o
+*.obj
+*.lo
+*.la
+*.a
+*.so
+*.dll
+*.dylib
+
+# Arquivos de build
+
+/build/
+/bin/
+/dist/
+/Debug/
+/Release/
+
+# Arquivos gerados por CMake
+
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# Arquivos temporários
+
+*.log
+*.tmp
+*.temp
+
+# Arquivos do editor
+
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# MacOS
+
+.DS_Store
+
+# Windows
+
+Thumbs.db
+
+# Coverage
+
+*.gcda
+*.gcno
+*.gcov
+
+# Dependências geradas automaticamente
+
+*.d
+# Executáveis
+
+*.exe
+*.out
+*.app
+
+# Objetos compilados
+
+*.o
+*.obj
+*.lo
+*.la
+*.a
+*.so
+*.dll
+*.dylib
+
+# Arquivos de build
+
+/build/
+/bin/
+/dist/
+/Debug/
+/Release/
+
+# Arquivos gerados por CMake
+
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# Arquivos temporários
+
+*.log
+*.tmp
+*.temp
+
+# Arquivos do editor
+
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# MacOS
+
+.DS_Store
+
+# Windows
+
+Thumbs.db
+
+# Coverage
+
+*.gcda
+*.gcno
+*.gcov
+
+# Dependências geradas automaticamente
+
+*.d

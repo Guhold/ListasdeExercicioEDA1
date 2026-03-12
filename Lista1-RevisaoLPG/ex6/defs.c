@@ -33,3 +33,15 @@ int contaNodoC(struct nodo*p){
   }
   return 1 + contaNodoC(p->link);
 }
+
+int contaNodoAux(struct nodoD *p){
+  if (!p){
+    return 0;
+  }
+
+  return 1 + contaNodoAux(p->dir);
+}
+
+int contaNodoD(struct descritor *p){
+  return contaNodoAux(p->primeiro);
+}

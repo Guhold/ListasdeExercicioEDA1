@@ -1,6 +1,5 @@
 #ifndef DEFS_H
 #define DEFS_H
-#endif
 
 struct data{
   int num;
@@ -18,3 +17,5 @@ typedef struct descritor{
 
 int reinicia(Descritor *p);
 int insere(Descritor *p, Nodo *novo, int pos);
+
+#endif
